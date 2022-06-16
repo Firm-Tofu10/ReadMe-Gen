@@ -61,7 +61,28 @@ function init() {
     inquirer.prompt(questions)
     .then((response) => {
     console.log(response);
-    })
+    const  readMeContent = `
+# Title: ${response.title}
+
+## Description: ${response.description}
+
+### Tabel of contents
+
+* [License](#license)
+
+* [instalation](#instalation)
+
+* [testing](#testing)
+
+* [usage](#usage)
+
+* [contributers](#contributers)
+
+* [github](#github)
+
+* [email](#email)
+    `
+    }) 
 }
 
 // Function call to initialize app
