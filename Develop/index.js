@@ -85,7 +85,7 @@ function init() {
 * [email](#email)
 
 #### License
-(https://img.shields.io/badge/license-${response.license}-blue.svg)
+![License icon](https://img.shields.io/badge/license-${response.license}-blue.svg)
 
 #### instalation
 ${response.instalation}

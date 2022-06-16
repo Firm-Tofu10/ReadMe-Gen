@@ -1,7 +1,7 @@
 
-# Title: ReadMeGen
+# Title: asdasdasd
 
-## Description: ForAutoGen
+## Description: asd
 
 ### Tabel of contents
 
@@ -20,19 +20,19 @@
 * [email](#email)
 
 #### License
-(https://img.shields.io/badge/license-NONE-blue.svg)
+![License icon](https://img.shields.io/badge/license-MIT-blue.svg)
 
 #### instalation
-run node index.js
+adadasda
 
 #### Testing
-test with node index.js
+adsadada
 
 #### Usage
-test with node index.js
+adasdadad
 
 #### Contributers
-Bryson Benson
+adadadada
 
 #### GitHub
 [github profile](https://github.com/Firm-Tofu10)
