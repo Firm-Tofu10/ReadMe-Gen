@@ -39,13 +39,30 @@ const questions = [
             message:"choose license",
             choices:["MIT","ISC","GPL","APACHE2.0","NONE"]
         },
+        {
+            type:"input",
+            name:"github",
+            message:"enter github username",
+        },
+        {
+            type:"input",
+            name:"email",
+            message:"enter email address",
+        },
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions)
+    .then((response) => {
+    console.log(response);
+    })
+}
 
 // Function call to initialize app
 init();
