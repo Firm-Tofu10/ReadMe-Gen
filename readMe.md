@@ -41,4 +41,6 @@ Bryson Benson
 If you have any questions, please contact me at brysonnbenson10@gmail.com
 
 #### Video Link: 
-https://drive.google.com/file/d/1sxAH8s5ezsrViK7daNW25OHBKbIwdjZO/view
+[Video Link](https://drive.google.com/file/d/1sxAH8s5ezsrViK7daNW25OHBKbIwdjZO/view)
+
+This assinment was a little difficult to understand because I do not understand node much yet. That being said, I decided to push through it and i like the results. This application is helpful because I do not need spend as much time on a readme file.
