@@ -7,7 +7,7 @@
 
 * [License](#license)
 
-* [instalation](#instalation)
+* [instalation](#installation)
 
 * [testing](#testing)
 
@@ -22,8 +22,8 @@
 #### License
 ![License icon](https://img.shields.io/badge/license-NONE-blue.svg)
 
-#### instalation
-You can install this program from github via my repos, my username is aattached to this readme.
+#### installation
+You can install this program from github via my repos, my username is attached to this readme.
 
 #### Testing
 Test this application as much as you wish.
@@ -43,4 +43,4 @@ If you have any questions, please contact me at brysonnbenson10@gmail.com
 #### Video Link: 
 [Video Link](https://drive.google.com/file/d/1sxAH8s5ezsrViK7daNW25OHBKbIwdjZO/view)
 
-This assignment was a little difficult to understand at first because I do not understand node much yet. That being said, I decided to push through it and i like the results. This application is helpful because I do not need spend as much time on a readme file. Very useful and satisfying to see this function the way it dose.
+This assignment was a little difficult to understand at first I do not understand node much yet. That being said, I decided to push through it and I like the results. This application is helpful because I do not need spend as much time on a readme file. Very useful and satisfying to see this function the way it dose.
